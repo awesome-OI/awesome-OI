@@ -16,6 +16,7 @@ Help us to complete the repository！（[What is an `awesome` repository？](htt
 
 - [Luogu](https://www.luogu.com.cn)
 - [LiberOJ](https://loj.ac)
+- [DarkBZOJ](https://darkbzoj.tk/)
 
 ### ICPC mode
 - [Sphere online judge](https://www.spoj.com) An online judge system with over 315,000 registered users and over 20,000 problems. Supports over 40 programming languages.
@@ -24,10 +25,11 @@ Help us to complete the repository！（[What is an `awesome` repository？](htt
 - [AtCoder](https://atcoder.jp) A famous OJ in Japan.
 - [HDU Online Judge](http://acm.hdu.edu.cn) HDOJ is the most famous OJ in China. It has been open since 2005, and has a lot more contest problems compared to others.
 - [Codeforces](https://codeforces.com/) A website that hosts competitive programming contests. Holds many contests every week, and contestants are ranked based their performance. Recommended by many universities.
+- [PKU JudgeOnline](http://poj.org/) PKU JudgeOnline contains more than 3000 interesting programming questions, most of which come from ACM and various self-organized competitions.
 
 ## C++ IDEs
 
-We all know that the main language used in OI competitions is C++, so it is very important to have a handy IDE
+We all know that the main language used in OI competitions is C++, so it is very important to have a handy IDE.
 
 ### List of Common C++ IDEs
 
@@ -36,9 +38,20 @@ We all know that the main language used in OI competitions is C++, so it is very
 - [Atom](https://atom.io/) A hackable text editor for the 21st Century by Github.
 - [Eclipse](https://www.eclipse.org/downloads/) Eclipse is a well-known cross-platform open source IDE.
 - [Dev C++](https://en.wikipedia.org/wiki/Dev-C%2B%2B) Dev-C++ is a free IDE for developing C/C++ (C++11).
-- - [Orwell Dev-C++](https://orwelldevcpp.blogspot.com/)
-- - [Embarcadero Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)
-- - [Red Panda Dev C++](https://github.com/royqh1979/Dev-Cpp)
+  - [Orwell Dev-C++](https://orwelldevcpp.blogspot.com/)
+  - [Embarcadero Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)
+  - [Red Panda Dev C++](https://github.com/royqh1979/Dev-Cpp)
 - [Notepad++](https://notepad-plus-plus.org/) Notepad++ is a free source code editor and Notepad replacement that supports several languages. Running in the MS Windows environment, its use is governed by GNU General Public License.
 - [Xcode](https://apps.apple.com/cn/app/xcode/id497799835?mt=12) A well-known IDE on Mac OS X.
 - [Kate](https://kate-editor.org/) Kate is a Feature-Packed Text Editor.
+
+## C++ Basics
+
+### Standard Libraries
+
+- [Standard C++ Library reference](http://www.cplusplus.com/reference/)
+
+### Learning Website of C++
+
+- [C++ Language](http://www.cplusplus.com/doc/tutorial/) It is a tutorial on the c++ official website.
+- [OI-Wiki](https://oi-wiki.org/lang/) Oi-Wiki introduces most of the C++ language knowledge required for OI.
