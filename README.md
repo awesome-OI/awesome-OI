@@ -9,12 +9,12 @@
 
 ## Online Judges
 ### OI mode
-- Luogu www.luogu.com.cn
-- LiberOJ loj.ac
+- Luogu https://www.luogu.com.cn
+- LiberOJ https://loj.ac
 ### ICPC mode
-- Sphere online judge www.spoj.com
-- Universal Online Judge uoj.ac
-- UVa Online Judge onlinejudge.org
-- Topcoder www.topcoder.com
-- AtCoder atcoder.jp
-- HDU Online Judge acm.hdu.edu.cn
+- Sphere online judge https://www.spoj.com
+- Universal Online Judge https://uoj.ac
+- UVa Online Judge https://onlinejudge.org
+- Topcoder https://www.topcoder.com
+- AtCoder https://atcoder.jp
+- HDU Online Judge http://acm.hdu.edu.cn
