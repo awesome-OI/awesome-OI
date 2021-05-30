@@ -1,7 +1,9 @@
 # awesome-OI
 
-   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-   [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
+<img src="https://img.shields.io/github/issues/awesome-OI/awesome-OI?color=green">  <img src="https://img.shields.io/github/stars/awesome-OI/awesome-OI?color=yellow">  <img src="https://img.shields.io/github/forks/awesome-OI/awesome-OI?color=orange">  <img src="https://img.shields.io/github/license/awesome-OI/awesome-OI?color=ff69b4">   <img src="https://img.shields.io/github/search/awesome-OI/awesome-OI/main?color=blue">  <img src="https://img.shields.io/github/languages/code-size/awesome-OI/awesome-OI?color=critical">
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
 
 
 Share awesome things about OI Learing together here! 
