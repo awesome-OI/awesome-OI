@@ -50,7 +50,7 @@
 - [Xcode](https://apps.apple.com/cn/app/xcode/id497799835?mt=12) 一个在 Apple 的 Mac OS X 商店中知名 IDE 。
 - [Kate](https://kate-editor.org/) Kate 是一个功能丰富的编辑器。
 
-## C++ Basics
+## C++ 语言基础
 
 ### Standard Libraries
 
