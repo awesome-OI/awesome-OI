@@ -18,7 +18,7 @@
 
 ### OI 类
 
-- [Luogu](https://www.luogu.com.cn) 
+- [Luogu](https://www.luogu.com.cn)
 - [LiberOJ](https://loj.ac)
 - [DarkBZOJ](https://darkbzoj.tk/)
 
@@ -60,3 +60,15 @@
 
 - [C++ Language](http://www.cplusplus.com/doc/tutorial/) 这是 C++ 官方网站的教程。
 - [OI-Wiki](https://oi-wiki.org/lang/) Oi-Wiki 介绍了大部分 OI 需用到的 c++ 知识。
+
+## 学习资料
+### 书籍
+#### 竞赛相关
+- [编程竞赛 第二版](https://cpbook.net) 覆盖在 ICPC 和 IOI 竞赛中所需的编程技能。
+- [算法竞赛进阶指南](https://book.douban.com/subject/30136932/)
+- [算法艺术与信息学竞赛](https://book.douban.com/subject/1154204/) 编程竞赛经典书籍，稍微过时，比较困难。
+
+#### Algorithm
+- [算法导论](https://mitpress.mit.edu/books/introduction-algorithms) 算法和数据结果的“圣经”。文笔严谨，有时比较难以理解。
+- [算法 by Robert Sedgewick and Kevin Wayne](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X)
+- [算法 by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
