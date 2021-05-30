@@ -36,7 +36,7 @@
 
 我们都知道，在 OI 系列竞赛中 C++ 是主要语言，所以有一个顺手的 IDE 是很重要的。
 
-### List of Common C++ IDEs
+### 常见的 C++ IDEs
 
 - [Vim](https://www.vim.org/) Vim 是一个高度可配置的文本编辑器，旨在高效地创建和更改任何类型的文本。它作为“vi”包含在大多数 UNIX 系统和 Apple OS X 中。
 - [Visual Studio Code](https://code.visualstudio.com/) Visual Studio Code 是一个轻量级但功能强大的源代码编辑器，可在您的桌面上运行，适用于 Windows、macOS 和 Linux 。它内置了对 JavaScript、TypeScript 和 Node.js 的支持。
@@ -52,11 +52,11 @@
 
 ## C++ 语言基础
 
-### Standard Libraries
+### C++ 标准库
 
 [Standard C++ Library reference](http://www.cplusplus.com/reference/)
 
-### Learning Website of C++
+### C++ 学习网站
 
 - [C++ Language](http://www.cplusplus.com/doc/tutorial/) 这是 C++ 官方网站的教程。
 - [OI-Wiki](https://oi-wiki.org/lang/) Oi-Wiki 介绍了大部分 OI 需用到的 c++ 知识。
