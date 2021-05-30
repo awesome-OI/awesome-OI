@@ -1,6 +1,7 @@
 # awesome-OI
 
    [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+   [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
 
 
 Share awesome things about OI Learing together here! 
