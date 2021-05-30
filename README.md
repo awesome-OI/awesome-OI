@@ -6,7 +6,7 @@
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
 
 
-Share awesome things about OI Learing together here! 
+Share awesome things about OI Learing together here!
 
 Help us to complete the repository！（[What is an `awesome` repository？](https://awesome.re)）
 
@@ -18,13 +18,12 @@ Help us to complete the repository！（[What is an `awesome` repository？](htt
 - [LiberOJ](https://loj.ac)
 
 ### ICPC mode
-
-- [Sphere online judge](https://www.spoj.com)
+- [Sphere online judge](https://www.spoj.com) An online judge system with over 315,000 registered users and over 20,000 problems. Supports over 40 programming languages.
 - [Universal Online Judge](https://uoj.ac)
-- [UVa Online Judge](https://onlinejudge.org)
-- [AtCoder](https://atcoder.jp)
-- [HDU Online Judge](http://acm.hdu.edu.cn)
-- [Codeforces](https://codeforces.com/)
+- [UVa Online Judge](https://onlinejudge.org) An online automated judge for programming problems hosted by University of Valladolid.
+- [AtCoder](https://atcoder.jp) A famous OJ in Japan.
+- [HDU Online Judge](http://acm.hdu.edu.cn) HDOJ is the most famous OJ in China. It has been open since 2005, and has a lot more contest problems compared to others.
+- [Codeforces](https://codeforces.com/) A website that hosts competitive programming contests. Holds many contests every week, and contestants are ranked based their performance. Recommended by many universities.
 
 ## C++ IDEs
 
