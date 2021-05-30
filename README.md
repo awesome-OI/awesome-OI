@@ -9,11 +9,11 @@
 
 ## Online Judges
 ### OI mode
-- Luogu https://www.luogu.com.cn
-- LiberOJ https://loj.ac
+- [Luogu](https://www.luogu.com.cn)
+- [LiberOJ](https://loj.ac)
 ### ICPC mode
-- Sphere online judge https://www.spoj.com
-- Universal Online Judge https://uoj.ac
-- UVa Online Judge https://onlinejudge.org
-- AtCoder https://atcoder.jp
-- HDU Online Judge http://acm.hdu.edu.cn
+- [Sphere online judge](https://www.spoj.com)
+- [Universal Online Judge](https://uoj.ac)
+- [UVa Online Judge](https://onlinejudge.org)
+- [AtCoder](https://atcoder.jp)
+- [HDU Online Judge](http://acm.hdu.edu.cn)
