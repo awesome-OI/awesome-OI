@@ -34,7 +34,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/) Visual Studio Code 是一个轻量级但功能强大的源代码编辑器，可在您的桌面上运行，适用于 Windows、macOS 和 Linux 。它内置了对 JavaScript、TypeScript 和 Node.js 的支持。
 - [Atom](https://atom.io/) Github 开发的一个“21世纪可Hack编辑器”。
 - [Eclipse](https://www.eclipse.org/downloads/) Eclipse 是著名的跨平台 IDE 。
-- [Dev C++](https://en.wikipedia.org/wiki/Dev-C%2B%2B) Dev-C++ 是一个免费的 IDE ，不过存在很多陈年老Bug，且原作者弃坑依旧。
+- [Dev C++](https://en.wikipedia.org/wiki/Dev-C%2B%2B) Dev-C++ 是一个免费的 IDE ，不过存在很多陈年老Bug，且原作者弃坑已旧。
 - - [Orwell Dev-C++](https://orwelldevcpp.blogspot.com/)
 - - [Embarcadero Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)
 - - [Red Panda Dev C++](https://github.com/royqh1979/Dev-Cpp)
