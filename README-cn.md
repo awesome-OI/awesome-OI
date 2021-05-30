@@ -9,7 +9,7 @@
 
 帮助我们完善Awesome-OI！（[什么是`Awesome`?](https://awesome.re)）
 
-## Contents
+## 目录
 - [Online Judges](#online-judges)
 - [C++ IDEs](#c-ides)
 - [C++ Basics](#c-basics)
