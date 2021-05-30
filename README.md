@@ -5,7 +5,7 @@
 
 Share awesome things about OI Learing together here! 
 
-帮助我们一起完善这个储存库！（[什么是`awesome`？](https://awesome.re)）
+Help us to complete the repository！（[What is an `awesome` repository？](https://awesome.re)）
 
 ## Online Judges
 
