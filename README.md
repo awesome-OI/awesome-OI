@@ -6,7 +6,7 @@
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
 
 
-Share awesome things about OI Learing together here!
+Share awesome things about OI Learing together here!If you want Pull Requests,please read [this](https://github.com/awesome-OI/awesome-OI/discussions/12).
 
 Help us to complete the repository！（[What is an `awesome` repository？](https://awesome.re)）
 
