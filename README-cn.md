@@ -17,12 +17,12 @@
 
 ### ICPC 类
 
-- [Sphere online judge](https://www.spoj.com)
+- [Sphere online judge](https://www.spoj.com) SPOJ 拥有超过 315,000 注册用户和超过 20,000 个问题的在线裁判系统。支持超过 40 种编程语言。
 - [Universal Online Judge](https://uoj.ac)
-- [UVa Online Judge](https://onlinejudge.org)
-- [AtCoder](https://atcoder.jp)
-- [HDU Online Judge](http://acm.hdu.edu.cn)
-- [Codeforces](https://codeforces.com/)
+- [UVa Online Judge](https://onlinejudge.org) 巴利亚多利德大学主办的老牌 OJ 。
+- [AtCoder](https://atcoder.jp) 日本知名 OJ
+- [HDU Online Judge](http://acm.hdu.edu.cn) HDOJ 是中国最著名的OJ。开放于 2005 年，HDOJ 相比其他国内 OJ 拥有更多比赛和题目。
+- [Codeforces](https://codeforces.com/) 知名的俄罗斯 OJ ，经常举办 OI 比赛。CF每周都会举办多场比赛，并根据参赛者的表现进行排名，由于比赛质量普遍不错，受到多所大学推荐。
 
 ## C++ IDEs
 
