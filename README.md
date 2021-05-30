@@ -15,6 +15,5 @@
 - Sphere online judge https://www.spoj.com
 - Universal Online Judge https://uoj.ac
 - UVa Online Judge https://onlinejudge.org
-- Topcoder https://www.topcoder.com
 - AtCoder https://atcoder.jp
 - HDU Online Judge http://acm.hdu.edu.cn
