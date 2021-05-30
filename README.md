@@ -1,16 +1,20 @@
 # awesome-OI
 
    [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+   [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
 
 
-分享关于OI学习的好东西
+Share awesome things about OI Learing together here!
 
-帮助我们一起完善这个储存库！（[什么是`awesome`？](https://awesome.re)）
+Help us to complete the repository！（[What is an `awesome` repository？](https://awesome.re)）
 
 ## Online Judges
+
 ### OI mode
+
 - [Luogu](https://www.luogu.com.cn)
 - [LiberOJ](https://loj.ac)
+
 ### ICPC mode
 - [Sphere online judge](https://www.spoj.com) An online judge system with over 315,000 registered users and over 20,000 problems. Supports over 40 programming languages.
 - [Universal Online Judge](https://uoj.ac)
@@ -18,6 +22,7 @@
 - [AtCoder](https://atcoder.jp) A famous OJ in Japan.
 - [HDU Online Judge](http://acm.hdu.edu.cn) HDOJ is the most famous OJ in China. It has been open since 2005, and has a lot more contest problems compared to others.
 - [Codeforces](https://codeforces.com/) A website that hosts competitive programming contests. Holds many contests every week, and contestants are ranked based their performance. Recommended by many universities.
+
 ## C++ IDEs
 
 We all know that the main language used in OI competitions is C++, so it is very important to have a handy IDE
