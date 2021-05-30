@@ -19,7 +19,7 @@ We all know that the main language used in OI competitions is C++, so it is very
 - [Eclipse](https://www.eclipse.org/downloads/) Eclipse is a well-known cross-platform open source IDE.
 - [Dev C++](https://en.wikipedia.org/wiki/Dev-C%2B%2B) Dev-C++ is a free IDE for developing C/C++ (C++11).
 - - [Orwell Dev-C++](https://orwelldevcpp.blogspot.com/)
-- - [Embarcadero Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)
+- - [Embarcadero Dev-C++](https://github.com/Embarcadero/Dev-Cpp)
 - - [Red Panda Dev C++](https://github.com/royqh1979/Dev-Cpp)
 - [Notepad++](https://notepad-plus-plus.org/) Notepad++ is a free source code editor and Notepad replacement that supports several languages. Running in the MS Windows environment, its use is governed by GNU General Public License.
 - [Xcode](https://apps.apple.com/cn/app/xcode/id497799835?mt=12) An IDE by Apple.
