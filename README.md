@@ -12,9 +12,20 @@ Help us to complete the repository！（[What is an `awesome` repository？](htt
 
 ## Contents
 
-- [Online Judges](#online-judges)
-- [C++ IDEs](#c-ides)
-- [C++ Basics](#c-basics)
+- [Awesome-OI](#awesome-oi)
+  - [Contents](#contents)
+  - [Online Judges](#online-judges)
+    - [OI mode](#oi-mode)
+    - [ICPC mode](#icpc-mode)
+  - [C++ IDEs](#c-ides)
+    - [List of Common C++ IDEs](#list-of-common-c-ides)
+  - [C++ Basics](#c-basics)
+    - [Standard Libraries](#standard-libraries)
+    - [Learning Website of C++](#learning-website-of-c)
+  - [Learning Resources](#learning-resources)
+    - [Books](#books)
+      - [General](#general)
+      - [Algorithm](#algorithm)
 
 ## Online Judges
 
@@ -61,3 +72,15 @@ We all know that the main language used in OI competitions is C++, so it is very
 
 - [C++ Language](http://www.cplusplus.com/doc/tutorial/) It is a tutorial on the c++ official website.
 - [OI-Wiki](https://oi-wiki.org/lang/) Oi-Wiki introduces most of the C++ language knowledge required for OI.
+
+## Learning Resources
+### Books
+#### General
+- [Competitive Programming, 2nd Edition](https://cpbook.net) Covers a collection of skills involved in ICPCs and IOIs.
+- [Advanced Guide of Algorithm Contest](https://book.douban.com/subject/30136932/)
+- [The Art of Algorithms and Olympics in Informatics](https://book.douban.com/subject/1154204/) A classic book for learning competitive programming. Outdated somehow.
+
+#### Algorithm
+- [Introduction to Algorithms (CLRS)](https://mitpress.mit.edu/books/introduction-algorithms) The "bible" for algorithms and data structures. The writing is rigorous and sometime hard to understand.
+- [Algorithms by Robert Sedgewick and Kevin Wayne](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X)
+- [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
