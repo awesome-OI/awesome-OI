@@ -27,7 +27,12 @@
 
 - [Dfkuaid](https://github.com/Dfkuaid)
 
+## 翻译者
 
+- [Heriko Deltana](https://github.com/HRiver2)
+- [Dfkuaid](https://github.com/Dfkuaid)
+
+---------
 
 # Thanks to the following contributors
 
@@ -37,7 +42,7 @@ Sort by time of contribution
 
 - [Dfkuaid](https://github.com/Dfkuaid)
 
-## Online evaluation system OJ
+## Online Judge
 
 ### OI Class
 
@@ -54,6 +59,11 @@ Sort by time of contribution
 - [Heriko Deltana](https://github.com/HRiver2)
 - [Dfkuaid](https://github.com/Dfkuaid)
 
-## C++ language basics
+## C++ basics
 
+- [Dfkuaid](https://github.com/Dfkuaid)
+
+## translaters
+
+- [Heriko Deltana](https://github.com/HRiver2)
 - [Dfkuaid](https://github.com/Dfkuaid)
