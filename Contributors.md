@@ -74,7 +74,7 @@ Sort by time of contribution
 
 - [pe200012](https://github.com/pe200012)
 
-## translaters
+## translators
 
 - [Heriko Deltana](https://github.com/HRiver2)
 - [Dfkuaid](https://github.com/Dfkuaid)
