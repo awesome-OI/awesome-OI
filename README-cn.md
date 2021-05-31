@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
 
-让我们一起在这里分享OI的好东西！如果你想 Pull requests，请阅读[这里](https://github.com/awesome-OI/awesome-OI/blob/master/Pull%20request%20template.md)
+让我们一起在这里分享OI的好东西！如果你想 Pull requests ，请阅读[这里](https://github.com/awesome-OI/awesome-OI/blob/master/Pull%20request%20template.md)
 
 帮助我们完善Awesome-OI！（[什么是`Awesome`?](https://awesome.re)）
 
