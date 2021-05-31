@@ -27,10 +27,15 @@
 
 - [Dfkuaid](https://github.com/Dfkuaid)
 
+## 学习资料
+
+- [pe200012](https://github.com/pe200012)
+
 ## 翻译者
 
 - [Heriko Deltana](https://github.com/HRiver2)
 - [Dfkuaid](https://github.com/Dfkuaid)
+- [pe200012](https://github.com/pe200012)
 
 ---------
 
@@ -63,7 +68,12 @@ Sort by time of contribution
 
 - [Dfkuaid](https://github.com/Dfkuaid)
 
+## Learning Resources
+
+- [pe200012](https://github.com/pe200012)
+
 ## translaters
 
 - [Heriko Deltana](https://github.com/HRiver2)
 - [Dfkuaid](https://github.com/Dfkuaid)
+- [pe200012](https://github.com/pe200012)
