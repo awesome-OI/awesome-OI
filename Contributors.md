@@ -5,6 +5,7 @@
 ## 目录
 
 - [Dfkuaid](https://github.com/Dfkuaid)
+- [pe200012](https://github.com/pe200012)
 
 ## 在线评测系统OJ
 
@@ -43,9 +44,10 @@
 
 Sort by time of contribution
 
-## table of Contents
+## Menu
 
 - [Dfkuaid](https://github.com/Dfkuaid)
+- [pe200012](https://github.com/pe200012)
 
 ## Online Judge
 
