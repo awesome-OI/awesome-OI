@@ -58,7 +58,7 @@
   - [Embarcadero Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)
   - [Red Panda Dev C++](https://github.com/royqh1979/Dev-Cpp)
 - [Notepad++](https://notepad-plus-plus.org/) Notepad++ 是一个免费的源代码编辑器和记事本替代品，支持多种语言，它在 MS Windows 环境中运行。
-- [Xcode](https://apps.apple.com/cn/app/xcode/id497799835?mt=12) 一个在 Apple 的 Mac OS X 商店中知名 IDE 。
+- [Xcode](https://apps.apple.com/cn/app/xcode/id497799835?mt=12) 一个在 Apple 的 Mac OS X 中知名 IDE 。
 - [Kate](https://kate-editor.org/) Kate 是一个功能丰富的编辑器。
 
 ## C++ 语言基础
@@ -80,6 +80,6 @@
 - [算法艺术与信息学竞赛](https://book.douban.com/subject/1154204/) 编程竞赛经典书籍，稍微过时，比较困难。
 
 #### 算法
-- [算法导论](https://mitpress.mit.edu/books/introduction-algorithms) 算法和数据结果的“圣经”。文笔严谨，有时比较难以理解。
+- [算法导论](https://mitpress.mit.edu/books/introduction-algorithms) 算法和数据结构的“圣经”。文笔严谨，有时比较难以理解。
 - [算法 by Robert Sedgewick and Kevin Wayne](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X)
 - [算法 by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
