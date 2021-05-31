@@ -42,7 +42,7 @@ Help us to complete the repository！（[What is an `awesome` repository？](htt
 - [AtCoder](https://atcoder.jp) A famous OJ in Japan.
 - [HDU Online Judge](http://acm.hdu.edu.cn) HDOJ is the most famous OJ in China. It has been open since 2005, and has a lot more contest problems compared to others.
 - [Codeforces](https://codeforces.com/) A website that hosts competitive programming contests. Holds many contests every week, and contestants are ranked based their performance. Recommended by many universities.
-- [PKU JudgeOnline](http://poj.org/) PKU JudgeOnline contains more than 3000 interesting programming questions, most of which come from ACM and various self-organized competitions.
+- [PKU JudgeOnline](http://poj.org/) PKU JudgeOnline contains more than 3,000 interesting programming questions, most of which come from ACM and various self-organized competitions.
 
 ## C++ IDEs
 
