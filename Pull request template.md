@@ -7,6 +7,7 @@
 3. 由于这项目的发起者是学生，因此可能审核您的 PR 时有些慢。为了提升审核的效率，请您在 PR 中提及您修改/贡献了哪些内容。
 4. 另外，如果您发现翻译有不准确的地方，或是链接失效/无法打开的情况，您也可以在 PR 中修改相应的内容，并注明您修改了什么。
 5. 如果您的修改被通过，您的名字将会被列在 [Contributors.md](https://github.com/awesome-OI/awesome-OI/blob/master/Contributors.md) 中。
+6. 如果您想要了解更多的消息，可以看看这个[讨论](https://github.com/awesome-OI/awesome-OI/discussions/12)
 
 感谢您的贡献
 
@@ -21,6 +22,7 @@ So if you want to contribute something, please follow the tips below
 3. Since the initiator of this project is a student, it may be a bit slow to review your PR. In order to improve the efficiency of review, please mention what you have modified/contributed in your PR.
 4. In addition, if you find that the translation is inaccurate, or the link is invalid/cannot be opened, you can also modify the corresponding content in the PR and indicate what you have modified.
 5. If your modification is approved, your name will be listed in [Contributors.md](https://github.com/awesome-OI/awesome-OI/blob/master/Contributors.md).
+6. If you want to know more things, you can check out this [discussion](https://github.com/awesome-OI/awesome-OI/discussions/12)
 
 Thanks for your contribution
 
