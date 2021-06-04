@@ -32,8 +32,8 @@ Help us to complete the repository！（[What is an `awesome` repository？](htt
 
 ### OI mode
 
-- [Luogu](https://www.luogu.com.cn)
-- [LiberOJ](https://loj.ac)
+- [Luogu](https://www.luogu.com.cn) May be the OJ with the most active users in China.
+- [LiberOJ](https://loj.ac) As the name suggests, this is a liberty OJ.
 - [DarkBZOJ](https://darkbzoj.tk/)
 
 ### ICPC mode
