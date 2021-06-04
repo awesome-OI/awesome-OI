@@ -29,8 +29,8 @@
 
 ### OI 类
 
-- [Luogu](https://www.luogu.com.cn)
-- [LiberOJ](https://loj.ac)
+- [Luogu](https://www.luogu.com.cn) 可能是国内活跃用户数最多的 OJ。
+- [LiberOJ](https://loj.ac) 正如其自由之名，这是一个开放而自由的 OJ。
 - [DarkBZOJ](https://darkbzoj.tk/)
 
 ### ICPC 类
