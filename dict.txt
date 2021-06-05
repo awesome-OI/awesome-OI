@@ -33,6 +33,6 @@ js
 SPOJ
 JudgeOnline
 nd
-Clion
+CLion
 README
 pe
