@@ -60,7 +60,7 @@ We all know that the main language used in OI competitions is C++, so it is very
   - [Embarcadero Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)
   - [Red Panda Dev C++](https://github.com/royqh1979/Dev-Cpp)
 - [Notepad++](https://notepad-plus-plus.org/) Notepad++ is a free source code editor and Notepad replacement that supports several languages. Running in the MS Windows environment, its use is governed by GNU General Public License.
-- [Xcode](https://apps.apple.com/cn/app/xcode/id497799835?mt=12) A well-known IDE on Mac OS X.
+- [Xcode](https://apps.apple.com/cn/app/xcode/id497799835?mt=12) A well-known IDE running on Mac OS.
 - [Kate](https://kate-editor.org/) Kate is a Feature-Packed Text Editor.
 - [CLion](https://www.jetbrains.com/clion/) A cross-platform IDE for C and C++.
 
