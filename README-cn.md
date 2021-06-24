@@ -32,7 +32,7 @@
 - [Luogu](https://www.luogu.com.cn) 可能是国内活跃用户数最多的 OJ。
 - [LiberOJ](https://loj.ac) 正如其自由之名，这是一个开放而自由的 OJ。
 - [DarkBZOJ](https://darkbzoj.tk/)
-- [Acwing](https://www.acwing.com/) 
+- [ACWing](https://www.acwing.com/) 
 - [Universaloj](https://uoj.ac) 名如其OJ。
 ### ICPC 类
 
