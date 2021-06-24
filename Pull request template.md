@@ -7,7 +7,8 @@
 3. 由于这项目的发起者是学生，因此可能审核您的 PR 时有些慢。为了提升审核的效率，请您在 PR 中提及您修改/贡献了哪些内容。
 4. 另外，如果您发现翻译有不准确的地方，或是链接失效/无法打开的情况，您也可以在 PR 中修改相应的内容，并注明您修改了什么。
 5. 如果您的修改被通过，您的名字将会被列在 [Contributors.md](https://github.com/awesome-OI/awesome-OI/blob/master/Contributors.md) 中。
-6. 如果您想要了解更多的消息，可以看看这个[讨论](https://github.com/awesome-OI/awesome-OI/discussions/12)
+6. 如果您想要了解更多的消息，可以看看这个[讨论](https://github.com/awesome-OI/awesome-OI/discussions/12)。
+7. 请注意，为了通过拼写检查，请您将您添加的内容中新的特有名词加入到字典 [dict.txt](https://github.com/awesome-OI/awesome-OI/blob/master/dict.txt) 中。
 
 感谢您的贡献
 
@@ -23,7 +24,8 @@ So if you want to contribute something, please follow the tips below
 4. In addition, if you find that the translation is inaccurate, or the link is invalid/cannot be opened, you can also modify the corresponding content in the PR and indicate what you have modified.
 5. If your modification is approved, your name will be listed in [Contributors.md](https://github.com/awesome-OI/awesome-OI/blob/master/Contributors.md).
 6. If you want to know more things, you can check out this [discussion](https://github.com/awesome-OI/awesome-OI/discussions/12)
+7. Please note that in order to pass the spell check, please add the new unique nouns in the content you added to the dictionary [dict.txt](https://github.com/awesome-OI/awesome-OI/blob/master/dict.txt).
 
 Thanks for your contribution
 
-Updated 2021.5.31
+Updated 2021.6.24
