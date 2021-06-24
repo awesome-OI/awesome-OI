@@ -59,7 +59,7 @@
   - [Embarcadero Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)
   - [Red Panda Dev C++](https://github.com/royqh1979/Dev-Cpp)
 - [Notepad++](https://notepad-plus-plus.org/) Notepad++ 是一个免费的源代码编辑器和记事本替代品，支持多种语言，它在 MS Windows 环境中运行。
-- [Xcode](https://apps.apple.com/cn/app/xcode/id497799835?mt=12) 一个在 Apple 的 Mac OS X 中知名 IDE 。
+- [Xcode](https://apps.apple.com/cn/app/xcode/id497799835?mt=12) 一个运行在 Mac OS 上的知名 IDE 。
 - [Kate](https://kate-editor.org/) Kate 是一个功能丰富的编辑器。
 - [CLion](https://www.jetbrains.com/zh-cn/clion/) C 和 C++ 跨平台 IDE。
 
