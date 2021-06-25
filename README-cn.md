@@ -41,7 +41,7 @@
 - [UVa Online Judge](https://onlinejudge.org) 巴利亚多利德大学主办的老牌 OJ 。
 - [AtCoder](https://atcoder.jp) 日本知名 OJ
 - [HDU Online Judge](http://acm.hdu.edu.cn) HDOJ 是中国最著名的OJ。开放于 2005 年，HDOJ 相比其他国内 OJ 拥有更多比赛和题目。
-- [Codeforces](https://codeforces.com/) 知名的俄罗斯 OJ ，经常举办 OI 比赛。CF 每周都会举办多场比赛，并根据参赛者的表现进行排名，由于比赛质量普遍不错，受到多所大学推荐。
+- [Codeforces](https://codeforces.com/) 知名的俄罗斯 OJ ，经常举办 OI 比赛。CF 每周都会举办多场比赛，并根据参赛者的表现进行排名，由于比赛质量普遍不错，因此 CF 受到多所大学推荐。
 - [PKU JudgeOnline](http://poj.org/) “北京大学程序在线评测系统”包含 3,000 多道饶有趣味的程序设计题，题目大部分来自 ACM 国际大学生程序设计竞赛和各种自行举办比赛的题目。
 
 ## C++ IDEs
