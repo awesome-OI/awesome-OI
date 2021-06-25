@@ -7,7 +7,9 @@
 [![Spellchecker](https://github.com/awesome-OI/awesome-OI/actions/workflows/spellcheck_action.yml/badge.svg)](https://github.com/awesome-OI/awesome-OI/actions/workflows/spellcheck_action.yml/badge.svg)
 
 
-Share awesome things about OI Learning together here!If you want Pull Requests,please read [this](https://github.com/awesome-OI/awesome-OI/blob/master/Pull%20request%20template.md).
+Share awesome things about OI Learning together here!
+
+If you want Pull Requests,please read [this](https://github.com/awesome-OI/awesome-OI/blob/master/Pull%20request%20template.md).
 
 Help us to complete the repository！（[What is an `awesome` repository？](https://awesome.re)）
 
