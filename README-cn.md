@@ -79,7 +79,7 @@
 #### 竞赛相关
 - [编程竞赛 第二版](https://cpbook.net) 覆盖在 ICPC 和 IOI 竞赛中所需的编程技能。
 - [算法竞赛进阶指南](https://book.douban.com/subject/30136932/)
-- [算法艺术与信息学竞赛](https://book.douban.com/subject/1154204/) 编程竞赛经典书籍，稍微过时，比较困难。
+- [算法艺术与信息学竞赛](https://book.douban.com/subject/1154204/) 编程竞赛经典书籍，稍微过时，讲述的都是相对较难的东西。
 
 #### 算法
 - [算法导论](https://mitpress.mit.edu/books/introduction-algorithms) 算法和数据结构的“圣经”。文笔严谨，有时比较难以理解。
